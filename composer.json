@@ -1,0 +1,23 @@
+{
+  "name": "ivmoiseev/uriparser",
+  "description": "Simple data provider for MySQL Database. Uses MySQLi or PDO.",
+  "keywords": [
+    "php"
+  ],
+  "license": "GPL-3.0-only",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Ilya Moiseev",
+      "email": "ilyamoiseev@inbox.ru"
+    }
+  ],
+  "require": {
+    "php": ">=7.1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "ivmoiseev\\uriparser\\": "src/ivmoiseev/uriparser"
+    }
+  }
+}
