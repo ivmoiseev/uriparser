@@ -1,6 +1,6 @@
 {
   "name": "ivmoiseev/uriparser",
-  "description": "Simple data provider for MySQL Database. Uses MySQLi or PDO.",
+  "description": "PHP URI parser, that I use in my simple scripts.",
   "keywords": [
     "php"
   ],
